@@ -1,6 +1,8 @@
 # LambertProblem
 A short console application that calculates the elements of an orbit of a body in Earth's gravity well from two position measurements of the orbiting body (in baricentric coordinates). The program instructions are in Romanian.
 
+This is an older project I did in college. 
+
 # How to build and run
 
 - Clone the repository.
